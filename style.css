@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    padding-bottom: 50px;
+}
+.regions {
+    column-count: 3;
+    /* Измените значение ширины по вашему усмотрению */
+    margin: 0 auto;
+    margin-left: 160px;
+    
+    
+}
+details {
+    margin-bottom: 10px;
+}
