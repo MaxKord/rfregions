@@ -13,3 +13,13 @@ h1 {
 details {
     margin-bottom: 10px;
 }
+
+
+  button {
+    
+    margin-bottom: 20px;
+    font-size: larger;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+  }
